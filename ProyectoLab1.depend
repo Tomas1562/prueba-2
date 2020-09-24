@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1593739785 source:c:\users\user\desktop\utn frgp\tp lab 1\proyectolab1\func.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1593739765 c:\users\user\desktop\utn frgp\tp lab 1\proyectolab1\fund.h
+
+1593739765 source:c:\users\user\desktop\utn frgp\tp lab 1\proyectolab1\main.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1593893291 source:c:\users\thebl\desktop\proyectolab1\func.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1593893053 c:\users\thebl\desktop\proyectolab1\fund.h
+
+1593740382 source:c:\users\thebl\desktop\proyectolab1\main.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1593897844 source:c:\users\thebl\desktop\proyectolab1_modificado\func.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1593897663 c:\users\thebl\desktop\proyectolab1_modificado\fund.h
+
+1593897918 source:c:\users\thebl\desktop\proyectolab1_modificado\main.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1593898797 source:c:\users\user\desktop\proyectolab1_modificado\func.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1593897663 c:\users\user\desktop\proyectolab1_modificado\fund.h
+
+1593897918 source:c:\users\user\desktop\proyectolab1_modificado\main.cpp
+	<iostream>
+	<cstdlib>
+	"fund.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
